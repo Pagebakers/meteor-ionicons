@@ -1,8 +1,8 @@
 {
 	"name": "ionicons",
 	"description": "Latest version of Ionicons, packaged for Meteor",
-	"homepage": "https://github.com/pagebakers/meteor-ionicons",
+	"homepage": "https://github.com/Pagebakers/meteor-ionicons",
 	"author": "Eelco Wiersma",
 	"version": "1.2.3",
-	"git": "https://github.com/pagebakers/meteor-ionicons.git"
+	"git": "https://github.com/Pagebakers/meteor-ionicons.git"
 }
