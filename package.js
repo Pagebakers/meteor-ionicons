@@ -3,12 +3,12 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-	api.add_files('fonts/ionicons.eot', 'client');
-	api.add_files('fonts/ionicons.svg', 'client');
-	api.add_files('fonts/ionicons.ttf', 'client');
-	api.add_files('fonts/ionicons.woff', 'client');
-	api.add_files('ionicons.css', 'client');
-	
-	//font path override
-	api.add_files('path-override.css', 'client');
+	api.add_files([
+    'fonts/ionicons.eot',
+    'fonts/ionicons.svg',
+    'fonts/ionicons.ttf',
+    'fonts/ionicons.woff',
+    'css/ionicons.css',
+    'path-override.css'
+  ], 'client');
 });
