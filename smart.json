@@ -3,6 +3,6 @@
 	"description": "Latest version of Ionicons, packaged for Meteor",
 	"homepage": "https://github.com/Pagebakers/meteor-ionicons",
 	"author": "Eelco Wiersma",
-	"version": "1.2.3",
+	"version": "1.4.1",
 	"git": "https://github.com/Pagebakers/meteor-ionicons.git"
 }
