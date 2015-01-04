@@ -14,8 +14,7 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
 
 ## Getting Started
 
-1. `npm install -g meteorite` (if not already installed)
-2. `mrt add ionicons`
+meteor add mrt:ionicons`
 
 
 ## HTML Example
