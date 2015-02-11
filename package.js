@@ -1,5 +1,8 @@
 Package.describe({
-	summary: "Latest version of Ionicons"
+	summary: "Latest version of Ionicons",
+	version: "2.0.0",
+	name: "mrt:ionicons",
+	git: "https://github.com/Pagebakers/meteor-ionicons.git"
 });
 
 Package.on_use(function (api){
