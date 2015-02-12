@@ -1,7 +1,9 @@
 meteor-ionicons
 ===================
 
-Meteorite smart package for Ionicons.
+Meteor package for Ionicons.
+
+*** If you're still using `mrt:ionicons` please migrate to `pagebakers:ionicons`.
 
 # Ionicons
 
@@ -14,14 +16,18 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
 
 ## Getting Started
 
-meteor add mrt:ionicons`
+```bash
+meteor add pagebakers:ionicons
+```
 
 
 ## HTML Example
 
 You can use [ionicons.com](http://ionicons.com) to easily find the icon you want to use. Once you've copied the desired icon's CSS classname, simply add the icon's classname to an HTML element.
 
-    <i class="icon-home"></i>
+```html
+<i class="icon-home"></i>
+```
 
 
 ## License
