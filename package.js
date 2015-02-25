@@ -11,7 +11,6 @@ Package.on_use(function (api){
     'fonts/ionicons.svg',
     'fonts/ionicons.ttf',
     'fonts/ionicons.woff',
-    'css/ionicons.css',
-    'path-override.css'
+    'css/ionicons.css'
   ], 'client');
 });
