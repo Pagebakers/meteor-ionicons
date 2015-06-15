@@ -3,8 +3,6 @@ meteor-ionicons
 
 Meteor package for Ionicons.
 
-*** If you're still using `mrt:ionicons` please migrate to `pagebakers:ionicons`.
-
 # Ionicons
 
 The premium icon font for [Ionic Framework](http://ionicframework.com/). Designed by [@helloimben](https://twitter.com/helloimben).
