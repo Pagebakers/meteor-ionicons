@@ -5,8 +5,8 @@ Package.describe({
 	git: "https://github.com/Pagebakers/meteor-ionicons.git"
 });
 
-Package.on_use(function (api){
-	api.add_files([
+Package.onUse(function (api){
+	api.addFiles([
     'ionicons.js'
   ], 'client');
 });
