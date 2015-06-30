@@ -24,7 +24,7 @@ meteor add pagebakers:ionicons
 You can use [ionicons.com](http://ionicons.com) to easily find the icon you want to use. Once you've copied the desired icon's CSS classname, simply add the icon's classname to an HTML element.
 
 ```html
-<i class="icon-home"></i>
+<i class="ion-home"></i>
 ```
 
 
